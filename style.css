@@ -1,0 +1,11 @@
+body {
+    background-color: #8181e1;
+}
+.yo {
+ padding: 50;
+ margin: 20px;
+ background-color: #ffff0b;
+}
+.flex {
+ display: flex;
+}
