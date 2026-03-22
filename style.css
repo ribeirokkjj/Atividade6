@@ -9,3 +9,13 @@ body {
 .flex {
  display: flex;
 }
+.adapth {
+    padding-right: 189px;
+}
+.adaptv {
+    padding-top: 189px;
+}
+
+.limit {
+    max-width: 280px;
+}
